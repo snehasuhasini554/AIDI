@@ -1,0 +1,5 @@
+PyQt5
+requests
+pyttsx3
+psutil
+matplotlib
