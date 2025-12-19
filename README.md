@@ -2,6 +2,18 @@
 
 AIDI is your sticky blue koala productivity buddy: Pomodoro, motivational AI chat, achievements, mood boosters, skins, and more.
 
+## Screenshots
+
+<div align="center">
+  <img src="screenshots/01_idle_state.png" alt="AIDI Idle State" width="200"/>
+  <img src="screenshots/02_timer_running.png" alt="Timer Running" width="200"/>
+  <img src="screenshots/03_break_mode.png" alt="Break Mode" width="200"/>
+</div>
+
+*AIDI in action: Idle state, Focus Mode, and Break Mode with achievements*
+
+For more screenshots, see the [screenshots](screenshots/) directory.
+
 ## Features
 
 - Floating koala with Pomodoro timer

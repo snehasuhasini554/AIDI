@@ -7,3 +7,8 @@ build/
 dist/
 .vscode/
 .idea/
+
+# Temporary screenshot generation scripts
+capture_screenshots.py
+create_assets.py
+generate_demo_screenshots.py
