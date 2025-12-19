@@ -5,9 +5,9 @@ AIDI is your sticky blue koala productivity buddy: Pomodoro, motivational AI cha
 ## Screenshots
 
 <div align="center">
-  <img src="screenshots/01_idle_state.png" alt="AIDI Idle State" width="200"/>
-  <img src="screenshots/02_timer_running.png" alt="Timer Running" width="200"/>
-  <img src="screenshots/03_break_mode.png" alt="Break Mode" width="200"/>
+  <img src="screenshots/01_idle_state.png" alt="AIDI companion showing idle state with blue koala character and 25:00 Pomodoro timer" width="200"/>
+  <img src="screenshots/02_timer_running.png" alt="AIDI showing active Pomodoro timer countdown at 24:35 in Focus Mode" width="200"/>
+  <img src="screenshots/03_break_mode.png" alt="AIDI in Break Mode with timer at 04:52 and achievement star badge" width="200"/>
 </div>
 
 *AIDI in action: Idle state, Focus Mode, and Break Mode with achievements*

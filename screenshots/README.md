@@ -28,6 +28,15 @@ AIDI with a paused timer (15:42) showing the "Paused" status label.
 - 🏆 Achievement badges for completed sessions
 - 🎨 Clean, rounded UI with soft colors and shadows
 
-## How Screenshots Were Generated
+## Regenerating Screenshots
 
-These screenshots were generated using the `generate_demo_screenshots.py` script, which creates a PyQt5 window and captures different application states programmatically.
+To regenerate these screenshots, you'll need to create a script that:
+1. Initializes a PyQt5 application with the AIDI window
+2. Programmatically changes the UI state (timer values, status labels, achievement badges)
+3. Uses `QWidget.grab()` to capture screenshots
+4. Runs with `QT_QPA_PLATFORM=offscreen` for headless rendering
+
+Example structure:
+```python
+QT_QPA_PLATFORM=offscreen python3 your_screenshot_script.py
+```
